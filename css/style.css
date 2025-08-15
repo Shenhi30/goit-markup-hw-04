@@ -420,33 +420,26 @@ p {
     align-items: baseline;
 }
 
-.container-logo {
-    margin-right: 120px
-}
-
-.link-logo-footer {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+.footer .block-logo {
     display: inline-block;
     margin-bottom: 16px;
 }
 
-.webstudio-footer {
-    color: #f4f4fd;
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 
-.p-footer {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
+.footer-text {
+    max-width: 264px;
+    line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
-    max-width: 264px
 }
 
 .container-footer {
