@@ -420,6 +420,10 @@ p {
     align-items: baseline;
 }
 
+.container-logo {
+    margin-right: 120px
+}
+
 .footer .block-logo {
     display: inline-block;
     margin-bottom: 16px;
@@ -445,6 +449,7 @@ p {
 .container-footer {
     display: flex;
     flex-direction: column;
+
 }
 
 .p-social {
