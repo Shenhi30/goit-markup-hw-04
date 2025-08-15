@@ -368,17 +368,16 @@ p {
         0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-
+.our-portfolio-list-slot:hover .p-overlay {
+    transform: translateY(0%);
+}
 
 .container-img {
     position: relative;
     overflow: hidden;
 }
 
-.our-portfolio-list-slot:hover,
-.p-overlay {
-    transform: translateY(0%);
-}
+
 
 .p-overlay {
     position: absolute;
