@@ -108,14 +108,6 @@ p {
 
 }
 
-.nav-link:hover {
-    color: #404bbf;
-}
-
-.nav-link:focus {
-    color: #404bbf;
-}
-
 .studio {
     position: relative;
     color: #404bbf;
@@ -132,6 +124,15 @@ p {
     background-color: #404bbf;
     border-radius: 2px;
 }
+
+.nav-link:hover {
+    color: #404bbf;
+}
+
+.nav-link:focus {
+    color: #404bbf;
+}
+
 
 .nav-address {
     font-style: normal;
